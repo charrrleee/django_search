@@ -9,7 +9,7 @@ This is a Django Project which consist 3 parts:
 
 ![Model](https://github.com/charrrleee/django_search/blob/main/docs/img/Screenshot%202023-01-13%20at%2014.15.49.png)
 
-3. Custom View Table
+2. Custom View Table
 
 - Use Django_filter
 - Use Django_table2
