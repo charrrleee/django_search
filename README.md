@@ -6,8 +6,7 @@ This is a Django Project which consist 3 parts:
 - Save the data to MySql Database
 - Query the data from database
 - Use Chart.js to make data as line chart.
-- 
-  ![ScreenShot](/Screenshot 2023-01-13 at 14.15.49.png)
+![Model](https://github.com/charrrleee/django_search/blob/main/docs/img/Screenshot%202023-01-13%20at%2014.15.49.png)
 
 3. Custom View Table
 
@@ -16,7 +15,7 @@ This is a Django Project which consist 3 parts:
 - Searching field
 - Pagination
 - Table
-- ![ScreenShot](/Screenshot 2023-01-13 at 14.15.57.png)
+![Model](https://github.com/charrrleee/django_search/blob/main/docs/img/Screenshot%202023-01-13%20at%2014.15.57.png)
   The css of django_table2 is not work except CSS3 but CSS3 is not responsive. After that, I use Django Admin Page
   Library
   to style the table and also the pagination.
