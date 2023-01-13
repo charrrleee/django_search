@@ -16,6 +16,5 @@ This is a Django Project which consist 3 parts:
 - Pagination
 - Table
 ![Model](https://github.com/charrrleee/django_search/blob/main/docs/img/Screenshot%202023-01-13%20at%2014.15.57.png)
-  The css of django_table2 is not work except CSS3 but CSS3 is not responsive. After that, I use Django Admin Page
-  Library
-  to style the table and also the pagination.
+The css of django_table2 is not work except CSS3 but CSS3 is not responsive. After that, I use Django Admin Page
+Library to style the table and also the pagination.
